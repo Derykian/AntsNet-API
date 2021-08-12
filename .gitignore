@@ -1,0 +1,11 @@
+# ignore all pytorch weights files
+*.pt
+
+# ignore all exp folders in detect
+runs/detect/*/
+
+# stuffs
+terminalstuffs.txt
+
+# nyet
+derek_accessKeys.csv
